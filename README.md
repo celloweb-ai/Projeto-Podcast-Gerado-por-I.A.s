@@ -50,7 +50,7 @@ Para criar seu próprio episódio de podcast com IA, siga os passos abaixo utili
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="www.linkedin.com/in/marcusvasconcellos">
         LinkedIn
     </a>
 
