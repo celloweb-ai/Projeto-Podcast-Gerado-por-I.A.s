@@ -17,10 +17,10 @@ Tudo isso feito com ferramentas de IA e edição acessíveis.
 
 ## 💻 Tecnologias Utilizadas
 
-- **ChatGPT** – geração de roteiro e estrutura narrativa
-- **MidJourney** – criação das imagens de capa
-- **ElevenLabs** – geração de voz realista em português
-- **CapCut** – edição de áudio e inserção de trilhas sonoras
+- **ChatGPT** – geração de roteiro e estrutura narrativa [ChatGPT](https://chat.openai.com/) 
+- **MidJourney** – criação das imagens de capa [MidJourney](https://www.midjourney.com/app/)
+- **ElevenLabs** – geração de voz realista em português [ElevenLabs](https://beta.elevenlabs.io/)
+- **CapCut** – edição de áudio e inserção de trilhas sonoras [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como Foi Feito?
 
@@ -31,9 +31,9 @@ Tudo isso feito com ferramentas de IA e edição acessíveis.
 
 ## 📚 Materiais
 
-- 🔗 Link da live no YouTube
-- 📄 Template no Notion com os prompts utilizados
-- 🎧 Editor de áudio recomendado
+- 🔗 Link da live no YouTube [Link da live no Youtube](https://www.youtube.com)
+- 📄 Template no Notion com os prompts utilizados [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
+- 🎧 Editor de áudio recomendado [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
 ## 🛠️ Instruções de Execução
 
@@ -47,6 +47,11 @@ Para criar seu próprio episódio de podcast com IA, siga os passos abaixo utili
 ## 👨‍💻 Expert
 
 **Marcus Vasconcellos**  
-GitHub | LinkedIn 
+    </a>
+    &nbsp;|&nbsp;
+    <a 
+        href="www.linkedin.com/in/felipe-exe">
+        LinkedIn
+    </a>
 
 ---
