@@ -46,12 +46,11 @@ Para criar seu próprio episódio de podcast com IA, siga os passos abaixo utili
 
 ## 👨‍💻 Expert
 
-**Marcus Vasconcellos**  
+**Marcus Vasconcellos Linkedin**  
     </a>
     &nbsp;|&nbsp;
     <a 
         href="www.linkedin.com/in/marcusvasconcellos">
-        LinkedIn
     </a>
 
 ---
