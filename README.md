@@ -46,7 +46,7 @@ Para criar seu próprio episódio de podcast com IA, siga os passos abaixo utili
 
 ## 👨‍💻 Expert
 
-**Felipe Aguiar**  
-GitHub | LinkedIn | Instagram
+**Marcus Vasconcellos**  
+GitHub | LinkedIn 
 
 ---
