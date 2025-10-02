@@ -45,14 +45,15 @@ Tudo isso feito com ferramentas de IA e edição acessíveis.
 
 ## 💻 Tecnologias Utilizadas
 
-- **Gemini** – geração de roteiro e estrutura narrativa [Gemini](https://gemini.google.com/) 
+- **ChatGPTG** – geração de roteiro e estrutura narrativa [ChatGPT](https://www.chatgpt.com/) 
+- **Gemini** – revisão de roteiro e estrutura narrativa [Gemini](https://gemini.google.com/) 
 - **MidJourney** – criação das imagens de capa [MidJourney](https://www.midjourney.com/app/)
 - **ElevenLabs** – geração de voz realista em português [ElevenLabs](https://beta.elevenlabs.io/)
 - **CapCut** – edição de áudio e inserção de trilhas sonoras [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como Foi Feito?
 
-1. **Roteiro** gerado via Gemini com prompts específicos.
+1. **Roteiro** gerado via ChatGPT com prompts específicos, com revisão via Gemini.
 2. **Áudio** narrado com voz sintética usando ElevenLabs.
 3. **Imagem de capa** criada com MidJourney.
 4. **Edição final** feita no CapCut, com ajustes de áudio e trilha sonora.
@@ -67,7 +68,7 @@ Tudo isso feito com ferramentas de IA e edição acessíveis.
 
 Para criar seu próprio episódio de podcast com IA, siga os passos abaixo utilizando os materiais disponíveis:
 
-1. 🤖 Use os **prompts de roteiro** no Gemini.
+1. 🤖 Use os **prompts de roteiro** no ChatGPT (revisado no Gemini).
 2. 🎙️ Gere o **áudio** com ElevenLabs usando o roteiro criado.
 3. 🎨 Crie a **imagem de capa** com os prompts no MidJourney.
 4. 🎧 Edite o áudio no CapCut, adicionando trilha sonora e finalizando o episódio.
