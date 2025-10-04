@@ -72,6 +72,6 @@ Para criar seu próprio episódio de podcast com IA, siga os passos abaixo utili
 
 ## 👨‍💻 Expert
 
-**Marcus Vasconcellos ** [Linkedin](https://www.linkedin.com/in/marcusvasconcellos) 
+⌨️ com 💜 por [Marcus Vasconcellos](https://github.com/celloweb-ai/)
   
 ---
