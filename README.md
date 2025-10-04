@@ -32,6 +32,8 @@
 
 Este projeto tem como objetivo demonstrar como é possível **gerar um podcast completo utilizando ferramentas de Inteligência Artificial**, por meio de uma esteira de prompts bem estruturada para cada etapa do processo criativo.
 
+<a href="https://soundcloud.com/marcus-435582933/vetor-etico-o-codigo-da-consciencia" title="Enter SOUNDCLOUD now">📕 Clique aqui para ouvir</a>
+
 ## 🧠 Visão Geral
 
 Utilizamos uma sequência de prompts para gerar:
