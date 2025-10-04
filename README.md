@@ -1,7 +1,7 @@
 <p align="center">
 <img 
     src="./assets/cover.jpeg"
-    width="300"
+    width="250"
 />
 </p>
 
@@ -18,13 +18,14 @@
 </a>
 </p>
 
-<p align="center">
-    PODCAST [Vetor Ético – O Código da Consciência] (https://soundcloud.com/marcus-435582933/vetor-etico-o-codigo-da-consciencia)/) 
-</p>
+-------
 
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
+<p align="center">
+<img 
+    src="https://github.com/celloweb-ai/Projeto-Ebook-Gerado-por-I.A.s/blob/main/assets/ebook.png"
+    width="250"  
+/>
+</p>
 
 # 🎙️ Projeto Podcast Gerado por I.A.s
 
