@@ -23,7 +23,7 @@
 
 # 🎙️ Projeto Podcast Gerado por I.A.s
 
-ℹ️ **Nota:** Este é o repositório desenvolvido durante uma live no YouTube em parceria com a DIO.
+ℹ️ **NOTA:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
 Este projeto tem como objetivo demonstrar como é possível **gerar um podcast completo utilizando ferramentas de Inteligência Artificial**, por meio de uma esteira de prompts bem estruturada para cada etapa do processo criativo.
 
