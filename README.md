@@ -22,7 +22,7 @@
 
 <p align="center">
 <img 
-    src="https://github.com/celloweb-ai/Projeto-Ebook-Gerado-por-I.A.s/blob/main/assets/ebook.png"
+    src="https://github.com/celloweb-ai/Projeto-Podcast-Gerado-por-I.A.s/blob/main/assets/podcast.png"
     width="250"  
 />
 </p>
